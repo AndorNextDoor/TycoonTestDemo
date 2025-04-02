@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64229816a9b53074581981591bd45ced, type: 3}
+  m_Name: ObjectsDatabase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Skeleton
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6842626705498518688, guid: e1dfccfb56415e74484183dee26e8e4a, type: 3}
+    <Cost>k__BackingField: 50
+    <RequiredLevel>k__BackingField: 0
+    Placable: 1
+    icon: {fileID: 21300000, guid: faf0a6c22e2e56543813a565aef33944, type: 3}
+  - <Name>k__BackingField: MiningSpot
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 5786959042816073795, guid: 5b288644ca3ba994cb5b7ac59c304ce5, type: 3}
+    <Cost>k__BackingField: 100
+    <RequiredLevel>k__BackingField: 0
+    Placable: 1
+    icon: {fileID: 21300000, guid: 47d0f276105154f40b987b689b15cfe4, type: 3}

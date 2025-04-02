@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbbd95e780e73c14eb7819aa5bb09a64, type: 3}
+  m_Name: MiningUpgrades
+  m_EditorClassIdentifier: 
+  buildingUpgrades:
+  - cooldown: 5
+    earnings: 100
+    newPrefab: {fileID: 5786959042816073795, guid: 5b288644ca3ba994cb5b7ac59c304ce5, type: 3}
+    upgradeCost: 100
+  - cooldown: 5
+    earnings: 150
+    newPrefab: {fileID: 2045864048479003803, guid: 354bdd3458f7fad4ca41d059d39e9e5c, type: 3}
+    upgradeCost: 200
+  - cooldown: 5
+    earnings: 200
+    newPrefab: {fileID: 2045864048479003803, guid: 345b6a7e3c02c324c835e65bf012c06e, type: 3}
+    upgradeCost: 350
+  - cooldown: 5
+    earnings: 500
+    newPrefab: {fileID: 2045864048479003803, guid: 79e624d5c3de0ad468864714cbbf64af, type: 3}
+    upgradeCost: 400

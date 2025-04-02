@@ -1,0 +1,1 @@
+{"goldAmount":50,"playerPosition":{"x":-0.1502685546875,"y":1.25244140625,"z":-20.48473358154297},"playerGuardians":[{"guardian":{"instanceID":46566},"startPos":{"x":-4.5,"y":-0.600024402141571,"z":-16.5}},{"guardian":{"instanceID":46566},"startPos":{"x":1.5,"y":-0.600024402141571,"z":-21.5}}]}
